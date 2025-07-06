@@ -40,6 +40,10 @@ Start with any scenario. Each one includes:
 
 - Reflections where applicable
 
-### Links to scenarios
+### Links to Scenarios
 
-
+- [Scenario 1 winword.exe → powershell.exe → Bitly URL](./scenario1.md)
+- [Scenario 2 Persistence/Enumeration](./scenario2.md)
+- [Scenario 3 Unfamiliar Sign-In Properties — Analysis & Customer Narrative](./scenario3.md)
+- [Scenario 4 Crypto Mining via Compromised AWS Access](./scenario4.md)
+- [Scenario 5 NTDS.dit Extraction via ScreenConnect](./scenario5.md)
